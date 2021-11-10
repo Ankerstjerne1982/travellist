@@ -369,7 +369,7 @@
             </Annotations>
             <Annotations Target="SAP__self.TravelType/HasDraftEntity">
                 <Annotation Term="SAP__core.Computed"/>
-                <Annotation Term="SAP__common.IsUpperCase"/>
+                <!-- <Annotation Term="SAP__common.IsUpperCase"/> -->
                 <Annotation Term="SAP__UI.HiddenFilter"/>
                 <Annotation Term="SAP__UI.Hidden"/>
                 <Annotation Term="SAP__common.Label" String="Has Draft"/>
@@ -389,7 +389,7 @@
             </Annotations>
             <Annotations Target="SAP__self.TravelType/HasActiveEntity">
                 <Annotation Term="SAP__core.Computed"/>
-                <Annotation Term="SAP__common.IsUpperCase"/>
+                <!-- <Annotation Term="SAP__common.IsUpperCase"/> -->
                 <Annotation Term="SAP__UI.HiddenFilter"/>
                 <Annotation Term="SAP__UI.Hidden"/>
                 <Annotation Term="SAP__common.Label" String="Has active"/>
@@ -397,7 +397,7 @@
             </Annotations>
             <Annotations Target="SAP__self.TravelType/IsActiveEntity">
                 <Annotation Term="SAP__core.Computed"/>
-                <Annotation Term="SAP__common.IsUpperCase"/>
+                <!-- <Annotation Term="SAP__common.IsUpperCase"/> -->
                 <Annotation Term="SAP__UI.HiddenFilter"/>
                 <Annotation Term="SAP__UI.Hidden"/>
                 <Annotation Term="SAP__common.Label" String="Is active"/>
@@ -881,7 +881,7 @@
             </Annotations>
             <Annotations Target="SAP__self.BookingType/HasDraftEntity">
                 <Annotation Term="SAP__core.Computed"/>
-                <Annotation Term="SAP__common.IsUpperCase"/>
+                <!-- <Annotation Term="SAP__common.IsUpperCase"/> -->
                 <Annotation Term="SAP__UI.HiddenFilter"/>
                 <Annotation Term="SAP__UI.Hidden"/>
                 <Annotation Term="SAP__common.Label" String="Has Draft"/>
@@ -901,7 +901,7 @@
             </Annotations>
             <Annotations Target="SAP__self.BookingType/HasActiveEntity">
                 <Annotation Term="SAP__core.Computed"/>
-                <Annotation Term="SAP__common.IsUpperCase"/>
+                <!-- <Annotation Term="SAP__common.IsUpperCase"/> -->
                 <Annotation Term="SAP__UI.HiddenFilter"/>
                 <Annotation Term="SAP__UI.Hidden"/>
                 <Annotation Term="SAP__common.Label" String="Has active"/>
@@ -909,7 +909,7 @@
             </Annotations>
             <Annotations Target="SAP__self.BookingType/IsActiveEntity">
                 <Annotation Term="SAP__core.Computed"/>
-                <Annotation Term="SAP__common.IsUpperCase"/>
+                <!-- <Annotation Term="SAP__common.IsUpperCase"/> -->
                 <Annotation Term="SAP__UI.HiddenFilter"/>
                 <Annotation Term="SAP__UI.Hidden"/>
                 <Annotation Term="SAP__common.Label" String="Is active"/>
@@ -1272,22 +1272,22 @@
                 <Annotation Term="SAP__common.Label" String="Draft In Process By"/>
             </Annotations>
             <Annotations Target="SAP__self.I_DraftAdministrativeDataType/DraftIsKeptByUser">
-                <Annotation Term="SAP__common.IsUpperCase"/>
+                <!-- <Annotation Term="SAP__common.IsUpperCase"/> -->
                 <Annotation Term="SAP__UI.Hidden"/>
                 <Annotation Term="SAP__common.Label" String="Draft Is Kept By User"/>
             </Annotations>
             <Annotations Target="SAP__self.I_DraftAdministrativeDataType/DraftIsCreatedByMe">
-                <Annotation Term="SAP__common.IsUpperCase"/>
+                <!-- <Annotation Term="SAP__common.IsUpperCase"/> -->
                 <Annotation Term="SAP__UI.Hidden"/>
                 <Annotation Term="SAP__common.Label" String="Draft Created By Me"/>
             </Annotations>
             <Annotations Target="SAP__self.I_DraftAdministrativeDataType/DraftIsLastChangedByMe">
-                <Annotation Term="SAP__common.IsUpperCase"/>
+                <!-- <Annotation Term="SAP__common.IsUpperCase"/> -->
                 <Annotation Term="SAP__UI.Hidden"/>
                 <Annotation Term="SAP__common.Label" String="Draft Last Changed By Me"/>
             </Annotations>
             <Annotations Target="SAP__self.I_DraftAdministrativeDataType/DraftIsProcessedByMe">
-                <Annotation Term="SAP__common.IsUpperCase"/>
+                <!-- <Annotation Term="SAP__common.IsUpperCase"/> -->
                 <Annotation Term="SAP__UI.Hidden"/>
                 <Annotation Term="SAP__common.Label" String="Draft In Process By Me"/>
             </Annotations>
@@ -1386,7 +1386,7 @@
                 <Annotation Term="SAP__common.Label" String="Alternative Key"/>
             </Annotations>
             <Annotations Target="SAP__self.CurrencyType/IsPrimaryCurrencyForISOCrcy">
-                <Annotation Term="SAP__common.IsUpperCase"/>
+                <!-- <Annotation Term="SAP__common.IsUpperCase"/> -->
                 <Annotation Term="SAP__common.Label" String="Primary"/>
                 <Annotation Term="SAP__common.Heading" String="Priamry SAP Code for ISO Code"/>
                 <Annotation Term="SAP__common.QuickInfo" String="Primary SAP Currency Code for ISO Code"/>
